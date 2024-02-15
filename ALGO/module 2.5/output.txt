@@ -1,0 +1,20 @@
+--size0
+5d== isvis1==0
+5d== isvis2==0
+5d== isvis3==0
+
+--size1
+5d== isvis0==1
+5d== isvis2==1
+
+--size2
+5d== isvis0==1
+5d== isvis1==1
+5d== isvis4==168
+
+--size3
+5d== isvis0==1
+5d== isvis5==254
+5d== isvis4==168
+
+

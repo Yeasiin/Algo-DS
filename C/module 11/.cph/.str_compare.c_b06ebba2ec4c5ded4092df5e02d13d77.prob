@@ -1,0 +1,1 @@
+{"name":"Local: str_compare","url":"f:\\Development File\\Phitron\\module 11\\str_compare.c","tests":[{"id":1697608611464,"input":"abc abb","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Development File\\Phitron\\module 11\\str_compare.c","group":"local","local":true}

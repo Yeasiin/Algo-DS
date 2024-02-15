@@ -1,0 +1,1 @@
+{"name":"Local: arr_reverse","url":"f:\\Development File\\Phitron\\module 9\\arr_reverse.c","tests":[{"id":1697315844638,"input":"6\n10 20 30 40 50 60\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Development File\\Phitron\\module 9\\arr_reverse.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"f:\\Development File\\Phitron\\module 6.5\\test.c","tests":[{"id":1697006251137,"input":"640888406240047987 374226571365332132 461101106400641213","output":"461101106400641213"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Development File\\Phitron\\module 6.5\\test.c","group":"local","local":true}

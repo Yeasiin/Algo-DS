@@ -1,0 +1,1 @@
+{"name":"Local: insert","url":"f:\\Development File\\Phitron\\module 9\\insert.c","tests":[{"id":1697313767708,"input":"5\n20 30 40 50 60\n3 100","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Development File\\Phitron\\module 9\\insert.c","group":"local","local":true}

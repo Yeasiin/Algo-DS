@@ -1,0 +1,1 @@
+{"name":"Local: count","url":"f:\\Development File\\Phitron\\Exam\\C_mid\\count.c","tests":[{"id":1697792633633,"input":"2\ntheFox25IsBrave\nILoveYou100TimesAndSay2Also","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Development File\\Phitron\\Exam\\C_mid\\count.c","group":"local","local":true}

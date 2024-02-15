@@ -1,0 +1,1 @@
+{"name":"Local: sum_of_array","url":"f:\\Development File\\Phitron\\module 7\\sum_of_array.c","tests":[{"id":1696963109259,"input":"5\n20 30 40 50 60","output":"200"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Development File\\Phitron\\module 7\\sum_of_array.c","group":"local","local":true}

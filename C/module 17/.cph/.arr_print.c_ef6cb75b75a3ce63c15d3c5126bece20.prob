@@ -1,0 +1,1 @@
+{"name":"Local: arr_print","url":"f:\\Development File\\Phitron\\module 17\\arr_print.c","tests":[{"id":1698781234234,"input":"6\n22 65 20 30 40 23","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Development File\\Phitron\\module 17\\arr_print.c","group":"local","local":true}

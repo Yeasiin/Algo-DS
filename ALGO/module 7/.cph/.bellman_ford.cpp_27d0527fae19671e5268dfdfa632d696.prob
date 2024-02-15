@@ -1,0 +1,1 @@
+{"name":"Local: bellman_ford","url":"f:\\Development File\\Phitron\\ALGO\\module 7\\bellman_ford.cpp","tests":[{"id":1706764755485,"input":"4 4\n0 2 5\n0 3 12\n2 1 2\n1 3 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Development File\\Phitron\\ALGO\\module 7\\bellman_ford.cpp","group":"local","local":true}

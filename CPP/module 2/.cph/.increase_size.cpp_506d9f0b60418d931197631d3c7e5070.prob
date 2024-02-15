@@ -1,0 +1,1 @@
+{"name":"Local: increase_size","url":"f:\\Development File\\Phitron\\CPP\\module 2\\increase_size.cpp","tests":[{"id":1699822431782,"input":"2\n10 20\n4\n30 40","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Development File\\Phitron\\CPP\\module 2\\increase_size.cpp","group":"local","local":true}
