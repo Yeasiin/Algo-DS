@@ -1,0 +1,98 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int lcs(string a, string b, int aa, int bb)
+{
+
+    if (aa == 0 || bb == 0)
+        return 0;
+
+    if (a[aa - 1] == b[bb - 1])
+    {
+        int ans = lcs(a, b, aa - 1, bb - 1);
+        return ans + 1;
+    }
+    else
+    {
+
+        int op1 = lcs(a, b, aa - 1, bb);
+        int op2 = lcs(a, b, aa, bb - 1);
+
+        return max(op1, op2);
+    }
+}
+
+int main()
+{
+    string a, b;
+
+    cin >> a >> b;
+
+    int n = a.size();
+    int m = b.size();
+
+    int dp[n + 1][m + 1];
+
+    for (int i = 0; i <= n; i++)
+    {
+        for (int j = 0; j <= m; j++)
+        {
+            if (i == 0 || j == 0)
+            {
+                dp[i][j] = 0;
+            }
+        }
+    }
+
+    for (int i = 1; i <= n; i++)
+    {
+        for (int j = 1; j <= m; j++)
+        {
+            if (a[i - 1] == b[j - 1])
+            {
+                dp[i][j] = dp[i - 1][j - 1] + 1;
+            }
+            else
+            {
+                int op1 = dp[i - 1][j];
+                int op2 = dp[i][j - 1];
+                dp[i][j] = max(op1, op2);
+            }
+        }
+    }
+
+    int i = n;
+    int j = m;
+
+    string ans;
+
+    while (i != 0 && j != 0)
+    {
+
+        if (a[i - 1] == b[j - 1])
+        {
+            ans += a[i - 1];
+            i--;
+            j--;
+        }
+        else
+        {
+
+            if (dp[i - 1][j] > dp[i][j - 1])
+            {
+                i--;
+            }
+            else
+            {
+                j--;
+            }
+        }
+    }
+
+    reverse(ans.begin(), ans.end());
+
+    cout << ans;
+
+    return 0;
+}

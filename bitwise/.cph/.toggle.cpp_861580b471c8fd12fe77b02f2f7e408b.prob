@@ -1,0 +1,1 @@
+{"name":"Local: toggle","url":"f:\\Development File\\Phitron\\bitwise\\toggle.cpp","tests":[{"id":1712483646871,"input":"65 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Development File\\Phitron\\bitwise\\toggle.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: enablenth","url":"f:\\Development File\\Phitron\\bitwise\\enablenth.cpp","tests":[{"id":1712482577187,"input":"64 5","output":"80"},{"id":1712482602590,"input":"64 8","output":"192"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Development File\\Phitron\\bitwise\\enablenth.cpp","group":"local","local":true}

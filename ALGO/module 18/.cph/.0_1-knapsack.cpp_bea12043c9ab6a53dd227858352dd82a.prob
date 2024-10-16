@@ -1,0 +1,1 @@
+{"name":"Local: 0_1-knapsack","url":"f:\\Development File\\Phitron\\ALGO\\module 18\\0_1-knapsack.cpp","tests":[{"id":1708494869660,"input":"4\n2 3 4 5\n1 3 5 3\n8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Development File\\Phitron\\ALGO\\module 18\\0_1-knapsack.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: subset_sum","url":"f:\\Development File\\Phitron\\ALGO\\recap-dp\\subset_sum.cpp","tests":[{"id":1709115268197,"input":"4\n1 2 4 6\n7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Development File\\Phitron\\ALGO\\recap-dp\\subset_sum.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: count_subset_bottom_up","url":"f:\\Development File\\Phitron\\ALGO\\module 23\\count_subset_bottom_up.cpp","tests":[{"id":1708932696135,"input":"6\n1 2 3 4 5 6\n7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Development File\\Phitron\\ALGO\\module 23\\count_subset_bottom_up.cpp","group":"local","local":true}

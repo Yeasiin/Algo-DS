@@ -1,0 +1,1 @@
+{"name":"Local: lcs_bottom_up","url":"f:\\Development File\\Phitron\\ALGO\\module 22\\lcs_bottom_up.cpp","tests":[{"id":1709582625713,"input":"abcdfgr\nacfdgr","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Development File\\Phitron\\ALGO\\module 22\\lcs_bottom_up.cpp","group":"local","local":true}

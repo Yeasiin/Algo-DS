@@ -1,0 +1,1 @@
+{"name":"Local: equal_sum","url":"f:\\Development File\\Phitron\\ALGO\\recap-dp\\equal_sum.cpp","tests":[{"id":1709149178530,"input":"4\n1 4 9 4","output":""},{"id":1709149602333,"input":"3\n1 10 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Development File\\Phitron\\ALGO\\recap-dp\\equal_sum.cpp","group":"local","local":true}
